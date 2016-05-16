@@ -1,0 +1,1 @@
+A sample application which demonstrates Services in Android.
