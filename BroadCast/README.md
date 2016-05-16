@@ -1,0 +1,1 @@
+A basic application which demonstrates BroadCast Receiver in Android.
