@@ -1,0 +1,1 @@
+Sample Application which demonstrates how to retrieve data from next Activity and display it.
