@@ -1,0 +1,1 @@
+A Sample Application which displays Static data using List View and Base Adapter.
