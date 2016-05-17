@@ -1,0 +1,1 @@
+A Sample Application which parses the JSON file in the assets folder and displays the result in ListView using BaseAdapter.

@@ -1,0 +1,19 @@
+{
+  "hotels": [
+    {
+      "title": "Nine Zero Hotel",
+      "lat": 42.357358,                             
+      "lon": -71.060710                          
+    },
+    {
+      "title": "Omni Parker House",
+      "lat": 42.357584,                                
+      "lon": -71.060205        
+    },
+    {
+      "title": "XV Beacon Hotel",             
+      "lat":     42.358330,            
+      "lon": -71.061938
+    }
+  ]
+}
