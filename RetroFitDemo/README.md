@@ -1,0 +1,1 @@
+A Sample Application which demonstrates how to get data from Remote using Retrofit Library(API Calls).
